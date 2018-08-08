@@ -1,0 +1,12 @@
+#!/bin/bash
+
+cd ~
+cd $2
+Echo "Script Name: $0"
+git checkout master
+git status
+git add -A
+git commit -m $1
+Git push
+git status
+Echo "Done!"
