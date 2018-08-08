@@ -4,3 +4,4 @@ Current exercize- creating an automated git add,commit, push script with customi
 This Line will be removed after some tests
 This Line will be removed after some tests
 This Line will be removed after some tests
+This Line will be removed after some tests
