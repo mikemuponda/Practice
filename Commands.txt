@@ -1,0 +1,43 @@
+--This text file command Shortcuts
+Bash/Terminal shorcuts
+
+\ tells system to ignore spaces eg cd My\Desktop
+Pushd /etc 
+Popd       &  dirs
+file + filename.   Tells you what kind of file you are looking at
+
+Uptime - how long your computer has been on
+
+Caffeinate- tell your Mac not to sleep, end with Ctrl C
+Caffeinate -u -t 20000.  Don’t sleep for 20 000 seconds
+
+Open .        Opens current dir in finder
+Open url     opens url in default web browser
+!$ use last argument
+
+googler search query
+c index  (copy link at index)
+links URL open url in terminal
+
+cat > filename.extension
+Type sample line1
+type sample line 2 …etc
+Press Cntrl D when done
+
+
+concatenate into new file
+cat file1 file2 > new file name
+
+cat *.extension   searches for all files with the given extension
+
+cat -n filename   displays file contents with numbered lines
+
+
+pkill ApplicationName                     kills the app/process
+
+...............................................................
+open -a appname or "app name if spaces"  Opens app
+open -a appname or "app name if spaces" filename    Opens file
+
+View processes in detail: htop
+view processes in less detail: top
